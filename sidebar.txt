@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[war:home|Door43 (war)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-war|d43-war repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-war/archive/master.zip|d43-war.zip]]
+
+**Recent Changes**
+{{changes>ns = war}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/war|Ethnologue data]]
+
